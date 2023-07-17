@@ -1,0 +1,15 @@
+const Estudiante = {
+    Nombre: 'Gabriel',
+    Edad: 42,
+    desarrollador: false,
+    fecha_valores: new Date(22, 3, 1981),
+    const: Libro = {
+        Nombre: 'El Señor de los Anillos',
+        Autor: 'JRR Tolkien',
+        fecha: undefined,
+        url: false,
+
+    }
+}
+console.log(Estudiante)
+console.log(Libro)
